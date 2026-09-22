@@ -1,4 +1,4 @@
-# MRI 추간공 협착증(Foraminal Stenosis) 객체 탐지 프로젝트
+# MRI 추간공 협착증 객체 탐지 프로젝트
 
 `04_Foraminal_Stenosis_Data` 데이터셋을 활용해, MRI 영상에서 추간공(Foramen) 영역을 탐지하고
 협착 등급(Grade)을 함께 식별하는 **YOLOv8 기반 객체 탐지(Object Detection)** 프로젝트입니다.
